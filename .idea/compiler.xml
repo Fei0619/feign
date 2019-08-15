@@ -17,7 +17,6 @@
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="feign-client" target="1.8" />
       <module name="feign-client (1)" target="1.8" />
     </bytecodeTargetLevel>
   </component>
