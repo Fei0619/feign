@@ -9,8 +9,8 @@
         <module name="common" />
         <module name="dao" />
         <module name="eureka-7001" />
-        <module name="feign-client" />
         <module name="gradeProvider-8002" />
+        <module name="openfeign-client" />
         <module name="userProvider-8001" />
       </profile>
     </annotationProcessing>
@@ -20,9 +20,9 @@
       <module name="common" options="" />
       <module name="dao" options="" />
       <module name="eureka-7001" options="" />
-      <module name="feign-client" options="" />
       <module name="feign-test" options="-parameters" />
       <module name="gradeProvider-8002" options="" />
+      <module name="openfeign-client" options="" />
       <module name="userProvider-8001" options="" />
     </option>
   </component>
