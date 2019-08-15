@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN"
+        "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="com.test.ib.web.dao.IbUserSubjectDao">
+
+    <resultMap id="userGradeInfo" type="com.test.ib.web.pojo.UserGradeInfo">
+        <result column="user_name" property="userName"/>
+        <collection property="gradeList" ofType="com.test.ib.web.pojo.SubjectGrade">
+            <result column="subject_name" property="subjectName"/>
+            <result column="grade" property="grade"/>
+        </collection>
+    </resultMap>
+
+    <!--费世程：获取某个用户的成绩-->
+    <select id="getUserGrade" resultMap="userGradeInfo">
+        select
+        u.user_name,s.subject_name,t.grade
+        from ib_user u
+        left join ib_user_subject t on u.id=t.user_id
+        left join ib_subject s on t.subject_id=s.subject_id
+        where u.id=#{userId,jdbcType=INTEGER}
+    </select>
+
+</mapper>
