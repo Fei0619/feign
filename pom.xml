@@ -14,6 +14,7 @@
         <module>eureka-7001</module>
         <module>userProvider-8001</module>
         <module>gradeProvider-8002</module>
+        <module>openfeign-client</module>
         <module>feign-client</module>
     </modules>
 

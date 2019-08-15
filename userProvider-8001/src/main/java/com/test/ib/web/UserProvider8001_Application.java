@@ -14,7 +14,7 @@ import org.springframework.cloud.openfeign.EnableFeignClients;
 @SpringBootApplication
 @EnableDiscoveryClient
 @MapperScan("com.test.ib.web.dao")
-@EnableFeignClients(basePackages = "com.test.ib.web")
+@EnableFeignClients(basePackages = "com.test.ib.web.openfeign")
 public class UserProvider8001_Application {
 
   public static void main(String[] args) {

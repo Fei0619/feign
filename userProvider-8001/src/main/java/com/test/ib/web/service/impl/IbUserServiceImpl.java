@@ -1,7 +1,7 @@
 package com.test.ib.web.service.impl;
 
 import com.test.ib.web.dao.IbUserDao;
-import com.test.ib.web.feign.client.UserGradeClient;
+import com.test.ib.web.openfeign.client.UserGradeClient;
 import com.test.ib.web.pojo.UserGradeInfo;
 import com.test.ib.web.pojo.tb.IbUser;
 import com.test.ib.web.service.IbUserService;

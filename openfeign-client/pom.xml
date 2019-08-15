@@ -9,7 +9,7 @@
     </parent>
     <modelVersion>4.0.0</modelVersion>
 
-    <artifactId>feign-client</artifactId>
+    <artifactId>openfeign-client</artifactId>
 
     <properties>
         <openfeign.version>2.1.0.RELEASE</openfeign.version>

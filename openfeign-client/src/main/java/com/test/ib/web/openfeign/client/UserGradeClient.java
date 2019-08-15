@@ -1,4 +1,4 @@
-package com.test.ib.web.feign.client;
+package com.test.ib.web.openfeign.client;
 
 import com.test.ib.web.pojo.UserGradeInfo;
 import com.test.ib.web.share.Result;

@@ -9,11 +9,15 @@
         <module name="common" />
         <module name="dao" />
         <module name="eureka-7001" />
+        <module name="feign-client" />
+        <module name="feign-client (1)" />
         <module name="gradeProvider-8002" />
-        <module name="openfeign-client" />
         <module name="userProvider-8001" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="openfeign-client" target="1.8" />
+    </bytecodeTargetLevel>
   </component>
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
