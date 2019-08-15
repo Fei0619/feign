@@ -2,25 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6a35125f-94ed-4e3e-bc90-e09c3649547e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/feign-client/src/main/java/com/test/ib/web/feign/client/UserInfoClient.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/feign-client/feign-client.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/feign-client/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/feign-client/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gradeProvider-8002/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/gradeProvider-8002/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gradeProvider-8002/src/main/java/com/test/ib/web/GradeProvider8002_Application.java" beforeDir="false" afterPath="$PROJECT_DIR$/gradeProvider-8002/src/main/java/com/test/ib/web/GradeProvider8002_Application.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gradeProvider-8002/src/main/java/com/test/ib/web/controller/IbUserGradeController.java" beforeDir="false" afterPath="$PROJECT_DIR$/gradeProvider-8002/src/main/java/com/test/ib/web/controller/IbUserGradeController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gradeProvider-8002/src/main/java/com/test/ib/web/service/IbUserGradeService.java" beforeDir="false" afterPath="$PROJECT_DIR$/gradeProvider-8002/src/main/java/com/test/ib/web/service/IbUserGradeService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gradeProvider-8002/src/main/java/com/test/ib/web/service/impl/IbUserGradeServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/gradeProvider-8002/src/main/java/com/test/ib/web/service/impl/IbUserGradeServiceImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gradeProvider-8002/target/classes/com/test/ib/web/GradeProvider8002_Application.class" beforeDir="false" afterPath="$PROJECT_DIR$/gradeProvider-8002/target/classes/com/test/ib/web/GradeProvider8002_Application.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gradeProvider-8002/target/classes/com/test/ib/web/controller/IbUserGradeController.class" beforeDir="false" afterPath="$PROJECT_DIR$/gradeProvider-8002/target/classes/com/test/ib/web/controller/IbUserGradeController.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gradeProvider-8002/target/classes/com/test/ib/web/service/IbUserGradeService.class" beforeDir="false" afterPath="$PROJECT_DIR$/gradeProvider-8002/target/classes/com/test/ib/web/service/IbUserGradeService.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gradeProvider-8002/target/classes/com/test/ib/web/service/impl/IbUserGradeServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/gradeProvider-8002/target/classes/com/test/ib/web/service/impl/IbUserGradeServiceImpl.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/userProvider-8001/src/main/java/com/test/ib/web/controller/IbUserController.java" beforeDir="false" afterPath="$PROJECT_DIR$/userProvider-8001/src/main/java/com/test/ib/web/controller/IbUserController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/userProvider-8001/target/classes/com/test/ib/web/controller/IbUserController.class" beforeDir="false" afterPath="$PROJECT_DIR$/userProvider-8001/target/classes/com/test/ib/web/controller/IbUserController.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/userProvider-8001/userProvider-8001.iml" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <ignored path="$PROJECT_DIR$/common/target/" />
@@ -107,7 +89,7 @@
         <entry file="file://$PROJECT_DIR$/feign-client/src/main/java/com/test/ib/web/feign/client/UserInfoClient.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="99">
-              <caret line="17" column="28" selection-start-line="17" selection-start-column="28" selection-end-line="17" selection-end-column="28" />
+              <caret line="17" column="38" lean-forward="true" selection-start-line="17" selection-start-column="38" selection-end-line="17" selection-end-column="38" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -409,7 +391,7 @@
     <property name="RequestMappingsPanelWidth2" value="75" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1565858006456" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1565858261232" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../../service_cloud" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -519,7 +501,7 @@
       <workItem from="1565839820960" duration="14000" />
       <workItem from="1565839855961" duration="4057000" />
       <workItem from="1565852914484" duration="886000" />
-      <workItem from="1565854244024" duration="3710000" />
+      <workItem from="1565854244024" duration="3996000" />
     </task>
     <task id="LOCAL-00001" summary="包名修改">
       <created>1565848952375</created>
@@ -528,16 +510,23 @@
       <option name="project" value="LOCAL" />
       <updated>1565848952376</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="feign代码">
+      <created>1565858088805</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1565858088805</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="38944000" />
+    <option name="totallyTimeSpent" value="39230000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="272" y="0" width="1262" height="832" extended-state="0" />
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.17607974" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.14209116" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -560,7 +549,7 @@
       <window_info anchor="bottom" id="Java Enterprise" order="12" weight="0.32952926" />
       <window_info anchor="bottom" id="Database Changes" order="13" weight="0.32952926" />
       <window_info anchor="bottom" id="Version Control" order="14" />
-      <window_info active="true" anchor="bottom" id="Run Dashboard" order="15" visible="true" weight="0.5042857" />
+      <window_info active="true" anchor="bottom" id="Run Dashboard" order="15" visible="true" weight="0.5" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -654,7 +643,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="包名修改" />
-    <option name="LAST_COMMIT_MESSAGE" value="包名修改" />
+    <MESSAGE value="feign代码" />
+    <option name="LAST_COMMIT_MESSAGE" value="feign代码" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$USER_HOME$/.m2/repository/org/springframework/boot/spring-boot-dependencies/2.1.5.RELEASE/spring-boot-dependencies-2.1.5.RELEASE.pom">
@@ -1026,7 +1016,7 @@
     <entry file="file://$PROJECT_DIR$/feign-client/src/main/java/com/test/ib/web/feign/client/UserInfoClient.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="99">
-          <caret line="17" column="28" selection-start-line="17" selection-start-column="28" selection-end-line="17" selection-end-column="28" />
+          <caret line="17" column="38" lean-forward="true" selection-start-line="17" selection-start-column="38" selection-end-line="17" selection-end-column="38" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
