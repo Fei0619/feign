@@ -1,44 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6a35125f-94ed-4e3e-bc90-e09c3649547e" name="Default Changelist" comment="">
+    <list default="true" id="6a35125f-94ed-4e3e-bc90-e09c3649547e" name="Default Changelist" comment="配置代码提交">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/common/target/classes/com/test/ib/web/share/Result.class" beforeDir="false" afterPath="$PROJECT_DIR$/common/target/classes/com/test/ib/web/share/Result.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/common/target/maven-archiver/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/common/target/maven-archiver/pom.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/common/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/common/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/common/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/common/target/service-cloud.jar" beforeDir="false" afterPath="$PROJECT_DIR$/common/target/service-cloud.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dao/target/maven-archiver/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/dao/target/maven-archiver/pom.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dao/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dao/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dao/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dao/target/service-cloud.jar" beforeDir="false" afterPath="$PROJECT_DIR$/dao/target/service-cloud.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/eureka-7001/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/eureka-7001/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/eureka-7001/target/maven-archiver/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/eureka-7001/target/maven-archiver/pom.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/eureka-7001/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/eureka-7001/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/eureka-7001/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/eureka-7001/target/service-cloud.jar" beforeDir="false" afterPath="$PROJECT_DIR$/eureka-7001/target/service-cloud.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gradeProvider-8002/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/gradeProvider-8002/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gradeProvider-8002/target/classes/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/gradeProvider-8002/target/classes/application.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gradeProvider-8002/target/maven-archiver/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/gradeProvider-8002/target/maven-archiver/pom.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gradeProvider-8002/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/gradeProvider-8002/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/gradeProvider-8002/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/gradeProvider-8002/target/service-cloud.jar" beforeDir="false" afterPath="$PROJECT_DIR$/gradeProvider-8002/target/service-cloud.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/openfeign-client/target/maven-archiver/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/openfeign-client/target/maven-archiver/pom.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/openfeign-client/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/openfeign-client/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/openfeign-client/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/openfeign-client/target/service-cloud.jar" beforeDir="false" afterPath="$PROJECT_DIR$/openfeign-client/target/service-cloud.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/userProvider-8001/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/userProvider-8001/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/userProvider-8001/target/classes/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/userProvider-8001/target/classes/application.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/userProvider-8001/target/maven-archiver/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/userProvider-8001/target/maven-archiver/pom.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/userProvider-8001/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/userProvider-8001/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/userProvider-8001/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/userProvider-8001/target/service-cloud.jar" beforeDir="false" afterPath="$PROJECT_DIR$/userProvider-8001/target/service-cloud.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/target/classes/com/test/ib/web/pojo/SubjectGrade.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/target/classes/com/test/ib/web/pojo/UserGradeInfo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/target/classes/com/test/ib/web/pojo/tb/IbSubject.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/target/classes/com/test/ib/web/pojo/tb/IbUser.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/target/classes/com/test/ib/web/share/DateUtils.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/target/classes/com/test/ib/web/share/ErrMsg.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/target/classes/com/test/ib/web/share/ExceptionUtils.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/target/classes/com/test/ib/web/share/Records.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/target/classes/com/test/ib/web/share/Result.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/target/classes/com/test/ib/web/share/SLog$StepDetail$StepDetailBuilder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/target/classes/com/test/ib/web/share/SLog$StepDetail.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/target/classes/com/test/ib/web/share/SLog.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/target/maven-archiver/pom.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/target/service-cloud.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <ignored path="$PROJECT_DIR$/common/target/" />
@@ -126,8 +105,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/common/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-1126">
-              <caret line="5" column="6" selection-start-line="5" selection-start-column="5" selection-end-line="5" selection-end-column="6" />
+            <state relative-caret-position="132">
+              <caret line="26" column="21" selection-start-line="26" selection-start-column="21" selection-end-line="26" selection-end-column="21" />
             </state>
           </provider>
         </entry>
@@ -135,7 +114,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/gradeProvider-8002/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="230">
+            <state relative-caret-position="626">
               <caret line="93" column="76" selection-start-line="93" selection-start-column="76" selection-end-line="93" selection-end-column="76" />
             </state>
           </provider>
@@ -177,8 +156,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="128">
-              <caret line="99" column="32" selection-start-line="99" selection-start-column="19" selection-end-line="99" selection-end-column="32" />
+            <state relative-caret-position="62">
+              <caret line="100" column="29" selection-start-line="100" selection-start-column="29" selection-end-line="100" selection-end-column="29" />
             </state>
           </provider>
         </entry>
@@ -254,7 +233,6 @@
         <option value="$PROJECT_DIR$/feign-client/src/main/java/com/test/ib/web/feign/client/UserGradeClient.java" />
         <option value="$PROJECT_DIR$/openfeign-client/pom.xml" />
         <option value="$PROJECT_DIR$/userProvider-8001/src/main/java/com/test/ib/web/UserProvider8001_Application.java" />
-        <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/feign-client/pom.xml" />
         <option value="$PROJECT_DIR$/userProvider-8001/src/main/java/com/test/ib/web/service/IbUserService.java" />
         <option value="$PROJECT_DIR$/userProvider-8001/src/main/java/com/test/ib/web/controller/IbUserController.java" />
@@ -273,6 +251,7 @@
         <option value="$PROJECT_DIR$/eureka-7001/pom.xml" />
         <option value="$PROJECT_DIR$/gradeProvider-8002/pom.xml" />
         <option value="$PROJECT_DIR$/userProvider-8001/pom.xml" />
+        <option value="$PROJECT_DIR$/pom.xml" />
       </list>
     </option>
   </component>
@@ -365,7 +344,7 @@
     <property name="RequestMappingsPanelWidth2" value="75" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1566801318652" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1566801989745" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -495,11 +474,18 @@
       <option name="project" value="LOCAL" />
       <updated>1565858088805</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="配置代码提交">
+      <created>1566801354136</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1566801354136</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="49333000" />
+    <option name="totallyTimeSpent" value="50158000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="151" y="0" width="1357" height="830" extended-state="0" />
@@ -527,7 +513,7 @@
       <window_info anchor="bottom" id="Messages" order="11" weight="0.29278642" />
       <window_info anchor="bottom" id="Java Enterprise" order="12" weight="0.32952926" />
       <window_info anchor="bottom" id="Database Changes" order="13" weight="0.32952926" />
-      <window_info anchor="bottom" id="Version Control" order="14" />
+      <window_info anchor="bottom" id="Version Control" order="14" weight="0.46848136" />
       <window_info anchor="bottom" id="Run Dashboard" order="15" weight="0.57285714" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -932,13 +918,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/common/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1126">
-          <caret line="5" column="6" selection-start-line="5" selection-start-column="5" selection-end-line="5" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/eureka-7001/src/main/java/com/test/ib/web/Eureka7001_Application.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="264">
@@ -973,13 +952,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/gradeProvider-8002/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="230">
-          <caret line="93" column="76" selection-start-line="93" selection-start-column="76" selection-end-line="93" selection-end-column="76" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/openfeign-client/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-158">
@@ -1007,10 +979,24 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/common/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="26" column="21" selection-start-line="26" selection-start-column="21" selection-end-line="26" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gradeProvider-8002/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="626">
+          <caret line="93" column="76" selection-start-line="93" selection-start-column="76" selection-end-line="93" selection-end-column="76" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="128">
-          <caret line="99" column="32" selection-start-line="99" selection-start-column="19" selection-end-line="99" selection-end-column="32" />
+        <state relative-caret-position="62">
+          <caret line="100" column="29" selection-start-line="100" selection-start-column="29" selection-end-line="100" selection-end-column="29" />
         </state>
       </provider>
     </entry>
