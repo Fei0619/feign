@@ -91,7 +91,7 @@
                 <groupId>org.springframework.boot</groupId>
                 <artifactId>spring-boot-maven-plugin</artifactId>
                 <configuration>
-                    <mainClass>com.ideal.saas.notice.NoticeApplication</mainClass>
+                    <mainClass>com.test.ib.web.GradeProvider8002_Application</mainClass>
                 </configuration>
                 <executions>
                     <execution>

@@ -25,7 +25,7 @@
       <module name="common" options="" />
       <module name="dao" options="" />
       <module name="eureka-7001" options="" />
-      <module name="feign-test" options="-parameters" />
+      <module name="feign-test" options="" />
       <module name="gradeProvider-8002" options="" />
       <module name="openfeign-client" options="" />
       <module name="userProvider-8001" options="" />
